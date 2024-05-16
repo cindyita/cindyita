@@ -1,3 +1,3 @@
-### Welcome ✨
+### Welcome 🍬
 
-I like to think that by programming I can create my own world and share it with everyone.
+I like to think that by programming, I can create my own world and share it with everyone.
