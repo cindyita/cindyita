@@ -1,12 +1,14 @@
-<div align="center">
-  <img height="200" src="https://f2.toyhou.se/file/f2-toyhou-se/images/39594666_TUEMurARmHTKtRO.png"  />
-</div>
 
 ###
 
 <p align="center">I like to think that by programming, I can create my own world and share it with everyone.</p>
 
 ###
+<div align="center">
+  
+![Number of Repositories](https://img.shields.io/badge/Total%20Repos-%5BREPOS_COUNT%5D-ff69b4)
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cindyita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
