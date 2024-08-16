@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ###
 
@@ -6,7 +8,9 @@
 ###
 <div align="center">
   
-![Number of Repositories](https://img.shields.io/badge/Total%20Repos-%5BREPOS_COUNT%5D-ff69b4)
+![Number of Repositories](https://img.shields.io/badge/Total%20Repos-30-ff69b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/cindy-alvarez-lopez/)
+[![Toyhou.se](https://img.shields.io/badge/toyhouse-profile-ff69b4)](https://toyhou.se/cindyita/)
 
 </div>
 
