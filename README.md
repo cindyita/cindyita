@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">I like to think that by programming, I can create my own world and share it with everyone.</p>
+<p align="center">I like to think that by programming, I can create my own world and share it with everyone!</p>
 
 ###
 <div align="center">
