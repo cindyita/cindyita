@@ -21,7 +21,7 @@
 </div>
 
 ###
-
+<!----
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,6 +69,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-</div>
+</div>---->
 
 ###
