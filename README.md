@@ -8,7 +8,7 @@
 ###
 <div align="center">
   
-![Number of Repositories](https://img.shields.io/badge/Total%20Repos-44-ff69b4)
+![Number of Repositories](https://img.shields.io/badge/Total%20Repos-45-ff69b4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/cindy-alvarez-lopez/)
 [![Toyhou.se](https://img.shields.io/badge/toyhouse-profile-ff69b4)](https://toyhou.se/cindyita/)
 
