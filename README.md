@@ -3,7 +3,7 @@
 -->
 ###
 
-<p align="center" style="padding:50px">
+<p align="center">
   <img src="./cindyita.svg" width="100%" alt="cindyita"/>
 </p>
 
