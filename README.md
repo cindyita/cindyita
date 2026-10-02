@@ -19,7 +19,7 @@
 <h3 align="center">🌱 my little garden of tools 🌱</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,electron,php,laravel,nodejs,express,nestjs,bootstrap,tailwind,sass,firebase,mongodb,mysql,docker,wordpress,godot&perline=7&theme=light" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,electron,php,laravel,nodejs,express,nestjs,bootstrap,tailwind,sass,firebase,mongodb,mysql,docker,wordpress,godot,blender&perline=7&theme=light" alt="tech stack"/>
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" height="48" alt="capacitor"/>
