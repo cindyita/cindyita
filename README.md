@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cindyita&layout=compact&card_width=320&langs_count=5&locale=en&bg_color=fffafc&title_color=ff5fa2&text_color=3a7d5c&border_color=3a7d5c" height="150" alt="languages graph"/>
 </div>
 
+<br />
+
 <p align="center"><img src="./divider.svg" width="70%" alt=""/></p>
 
 <p align="center">💌 thanks for visiting my profile! 💌</p>
