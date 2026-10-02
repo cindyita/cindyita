@@ -3,6 +3,12 @@
 
 ###
 
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=800&color=FF71CE&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Arizona+%F0%9F%8C%B4;Web+design+%2B+automatizaci%C3%B3n;Game+dev+en+Godot+%F0%9F%8E%AE](https://raw.githubusercontent.com/cindyita/cindyita/3849404c99e0103576ab67f70b35642287c39c59/cindyita.svg)" alt="cindyita"/>
+</p>
+
+###
+
 <p align="center">I like to think that by programming, I can create my own world and share it with everyone!</p>
 
 ###
