@@ -22,14 +22,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,electron,php,laravel,nodejs,express,nestjs,bootstrap,tailwind,sass,firebase,mongodb,mysql,docker,wordpress,postman,godot,blender&perline=7&theme=light" alt="tech stack"/>
 </p>
 
-<p align="center"><img src="./divider.svg" width="70%" alt=""/></p>
+<!--<p align="center"><img src="./divider.svg" width="70%" alt=""/></p>-->
+<!--
+<h3 align="center">🌸 what I code the most 🌸</h3>-->
 
-<h3 align="center">🌸 what I code the most 🌸</h3>
-
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=cindyita&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=fffafc&title_color=ff5fa2&text_color=3a7d5c&icon_color=ff7eb6&border_color=3a7d5c" height="150" alt="stats graph"/> -->
+<!--<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cindyita&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=fffafc&title_color=ff5fa2&text_color=3a7d5c&icon_color=ff7eb6&border_color=3a7d5c" height="150" alt="stats graph"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cindyita&layout=compact&card_width=320&langs_count=5&locale=en&bg_color=fffafc&title_color=ff5fa2&text_color=3a7d5c&border_color=3a7d5c" height="150" alt="languages graph"/>
-</div>
+</div>-->
 
 <br />
 
